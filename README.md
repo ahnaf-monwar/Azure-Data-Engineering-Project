@@ -13,3 +13,8 @@ leveraged Databricks utilities for secure file access, interactivity, and notebo
 
 # Final link of Project Demo
 https://ahnaf-monwar.github.io/Azure-Data-Engineering-Project/Ahnaf-Data-Engineering-Project-Azure-Databricks.html
+
+# Accessing the Project
+Either go to the  "Ahnaf-Data-Engineering-Project-Azure-Databricks.ipynb" file or "Ahnaf-Data-Engineering-Project-Azure-Databricks.html" file
+of the repository and then click on "Download Raw file" option just beside "Edit this file" option with a pencil symbol to download and access the project.
+
